@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#96b8c4",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "兴趣小组展示",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
